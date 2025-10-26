@@ -9,7 +9,7 @@ function Footer() {
   let data = new Date().getFullYear();
   return (
     <>
-      <div className="flex justify-center bg-[#69140E] text-white">
+      <div className="flex justify-center bg-[#69140E] text-[#FDCC45]">
         <div className="container flex flex-col items-center py-4">
           <p className="text-xl font-bold">
             Anansi Conectando Trancistas | Copyright: {data}
